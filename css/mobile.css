@@ -1,0 +1,15 @@
+.container {
+    width: 100%;
+}
+
+.column1,
+.column2,
+.column3 {
+    width: 100%;
+    display: block;
+}
+
+header,
+footer {
+    width: 100%;
+}

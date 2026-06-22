@@ -1,0 +1,20 @@
+.container {
+    width: 95%;
+    margin: auto;
+}
+
+.column1,
+.column2 {
+    float: left;
+    width: 50%;
+}
+
+.column3 {
+    clear: both;
+    width: 100%;
+}
+
+header,
+footer {
+    clear: both;
+}
